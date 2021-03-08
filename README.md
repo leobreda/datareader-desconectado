@@ -34,7 +34,13 @@ Necessário para o caso de teste
 	}
 
 ##3. Ative/Desative o modo conectado
+
 	public static DbDataReader ExecuteReader(string strSQL)
 	{
 		conectado = true;
 	}
+
+
+
+
+https://pandao.github.io/editor.md/en.html
